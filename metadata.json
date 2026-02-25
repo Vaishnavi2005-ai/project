@@ -1,0 +1,8 @@
+{
+  "name": "IntelliPeer-A skill learning platform",
+  "description": "A peer-to-peer skill-sharing platform where users can learn and teach various skills through videos, study materials, and live sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
